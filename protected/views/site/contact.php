@@ -3,7 +3,11 @@
 /* @var $model ContactForm */
 /* @var $form CActiveForm */
 
+<<<<<<< HEAD
 $this->pageTitle=Yii::app()->name . ': Contact Us';
+=======
+$this->pageTitle=Yii::app()->name . ' -- Contact Us';
+>>>>>>> e319af164e182985e88633e3504e61a10e8a9ae8
 $this->breadcrumbs=array(
 	'Contact',
 );
